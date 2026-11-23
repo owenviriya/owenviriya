@@ -14,11 +14,10 @@
 ## About me
 
 I'm a Computer Science student at **Universitas Indonesia** (GPA 4.00/4.00) and a Teaching Assistant at Fasilkom UI.
-I enjoy turning messy real-world data into models that actually work, from LLMs for Indonesian text and forecasting to bird-call audio and vision models running on a Raspberry Pi. Most of what I know I picked up by joining competitions and building things.
+I enjoy turning messy real-world data into models that actually work, from LLMs for Indonesian text and time-series forecasting to bird-call audio classification. Most of what I know I picked up by joining competitions and building things.
 
 - 🏆 1st place in 3 national data science competitions in 2026 (ACTION, INCEPTION, JOINTS)
 - 🎓 Teaching Assistant, Programming Foundations 1 (Python), Fasilkom UI
-- 🤖 Computer Vision Developer, KRSRI Robotics Team UI
 - 🌱 Currently exploring LLM fine-tuning, RAG, and model serving
 
 ---
@@ -41,7 +40,6 @@ I enjoy turning messy real-world data into models that actually work, from LLMs 
 
 ## 🛠️ Other projects
 
-- **Rescue-target detection (KRSRI Robotics)**: fine-tuned YOLOv8 to tell rescue targets from decoys and deployed it with ONNX and NCNN for real-time inference on a Raspberry Pi 4. Found that 93% of validation images had a near-duplicate in training, then rebuilt the split chronologically.
 - **PPMB Website (KMBUI UI)**: frontend in Next.js and React with login/signup and assignment submission, used by about 170 incoming members per cohort.
 
 ---
