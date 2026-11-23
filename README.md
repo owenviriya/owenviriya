@@ -14,7 +14,7 @@
 ## About me
 
 I'm a Computer Science student at **Universitas Indonesia** (GPA 4.00/4.00) and a Teaching Assistant at Fasilkom UI.
-I build ML systems for NLP, forecasting, tabular data, audio, and computer vision, and I care most about **leakage-free validation** and **beating strong baselines honestly**.
+I enjoy turning messy real-world data into models that actually work, from LLMs for Indonesian text and forecasting to bird-call audio and vision models running on a Raspberry Pi. Most of what I know I picked up by joining competitions and building things.
 
 - 🏆 1st place in 3 national data science competitions in 2026 (ACTION, INCEPTION, JOINTS)
 - 🎓 Teaching Assistant, Programming Foundations 1 (Python), Fasilkom UI
